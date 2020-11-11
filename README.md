@@ -22,8 +22,8 @@ macOS：Catalina 10.15.7
 
 [Hackintool](https://github.com/headkaze/Hackintool)
 
-## 警告
-使用本EFI需要替换三码
+## 使用
+使用前需要替换三码
 
 ## 硬件
 * 机箱：[zs a4 v3](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-21950307975.49.207e63b8VuTBtH&id=626651889081)
