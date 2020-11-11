@@ -1,0 +1,1 @@
+# OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh
