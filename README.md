@@ -2,7 +2,7 @@
  
 本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
 
-OpenCore：0.6.2 
+OpenCore：0.6.3 
 macOS：Catalina 10.15.7
 
 参阅的文档：
