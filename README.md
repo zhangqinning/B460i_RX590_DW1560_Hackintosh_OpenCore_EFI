@@ -22,7 +22,7 @@ macOS：Big Sur 11.0.1
 
 [Hackintool](https://github.com/headkaze/Hackintool)
 
-## 使用
+## 本项目的使用
 使用前需要替换三码
 
 ## 硬件
