@@ -1,4 +1,4 @@
-# OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh
+# OC_10400_B460i_RX590_Hackintosh
  
 本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
 
