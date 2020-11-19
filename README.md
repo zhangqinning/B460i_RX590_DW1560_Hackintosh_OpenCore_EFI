@@ -1,12 +1,13 @@
 # B460i_RX590_Hackintosh
  
-"" 本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
+本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
 
  * OpenCore 0.6.3 
 
  * macOS Big Sur 11.0.1
 
 参阅的文档：
+
 [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 [Comet Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#starting-point)
