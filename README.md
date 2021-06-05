@@ -1,9 +1,10 @@
 # B460i_RX590_Hackintosh
- 
+
 本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
 
-OpenCore：0.7.0
-macOS：Big Sur 11.0.1
+> OpenCore：0.7.0
+>
+> macOS：Big Sur 11.0.1
 
 参阅的文档：
 
@@ -17,7 +18,7 @@ macOS：Big Sur 11.0.1
 
 ## 更新
 
-> 2021年6月5日 OpenCore 0.6.3 -> 0.7.0 修复蓝牙问题
+> 2021年6月5日:  1.OpenCore 0.6.3 -> 0.7.0  2.修复蓝牙问题
 
 ## 建议使用的工具
 
@@ -50,7 +51,7 @@ macOS：Big Sur 11.0.1
 
 ## 截图
 ![](https://github.com/zhangqinning/OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh/blob/main/assets/%E6%88%AA%E5%B1%8F2020-11-19%2013.04.32.png?raw=true)
-![](https://github.com/zhangqinning/OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh/blob/main/assets/%E6%88%AA%E5%B1%8F2020-11-19%2013.20.34.png?raw=true)
+![](https://github.com/zhangqinning/B460i_RX590_DW1560_Hackintosh_OpenCore_EFI/blob/main/assets/%E6%88%AA%E5%B1%8F2021-06-05%2014.49.23.png?raw=true)
 ![](https://github.com/zhangqinning/OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh/blob/main/assets/%E6%88%AA%E5%B1%8F2020-11-10%2013.59.24.png?raw=true)
 ![](https://github.com/zhangqinning/OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh/blob/main/assets/%E6%88%AA%E5%B1%8F2020-11-19%2013.12.24.png?raw=true)
 ![](https://github.com/zhangqinning/OC_10400_ASUS-rog-strix-b460i_RX590_Hackintosh/blob/main/assets/%E6%88%AA%E5%B1%8F2020-11-19%2013.19.08.png?raw=true)
