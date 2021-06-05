@@ -2,9 +2,8 @@
  
 本项目是维护基于华硕的ROG STRIX B460I主版的黑苹果引导
 
- * OpenCore 0.6.3 
-
- * macOS Big Sur 11.0.1
+OpenCore：0.7.0
+macOS：Big Sur 11.0.1
 
 参阅的文档：
 
@@ -16,7 +15,13 @@
 
 [Xjn´s Blog ：使用 OpenCore 引导黑苹果](https://blog.xjn819.com/post/opencore-guide.html)
 
+## 更新
+
+> 2021年6月5日 OpenCore 0.6.3 -> 0.7.0 修复蓝牙问题
+
 ## 建议使用的工具
+
+[OCBuilder](https://github.com/Pavo-IM/ocbuilder)
 
 [HackintoshBuild](https://github.com/bugprogrammer/HackintoshBuild)
 
@@ -32,7 +37,7 @@
 * 主版：[ROG STRIX B460-I GAMING](https://www.asus.com.cn/Motherboards/ROG-STRIX-B460-I-GAMING/)
 * CPU: [Intel® Core™ i5-10400](https://www.intel.com/content/www/us/en/products/processors/core/i5-processors/i5-10400.html)
 * 显卡：[蓝宝石rx590 8g超白金极光版](https://www.sapphiretech.com.cn/zh-cn/consumer/nitro-rx-590-gme-8g-g5-se_c) 
-* Wifi：DW1560 目前wifi正常 隔空投送和蓝牙时断时续
+* Wifi：DW1560 
 * 散热：[利民Thermalright AXP-90i](http://www.thermalright.com/product/axp-90i-%e6%a0%87%e5%87%86%e7%89%88/)
 * 内存：[十铨火神DDR4](https://www.teamgroupinc.com/cn/product/vulcan-z-ddr4) 16Gx2 
 * 硬盘：[海康威视C200Pro](https://item.jd.com/40561723363.html) 1T
